@@ -1,0 +1,5 @@
+{
+  "name": "UrbanAssist Lite",
+  "description": "A modern responsive urban assistance tool featuring offline-first maps, OCR, and emergency contact management.",
+  "requestFramePermissions": ["geolocation", "camera"]
+}
